@@ -1,2 +1,2 @@
 # Projeto Final do Técnico em Eletrônica 
- **Código para o microcontrolador ATMEGA 328**
+ **microcontrolador ATMEGA 328**
